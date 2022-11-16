@@ -1,0 +1,13 @@
+Rb DF SCF Calculation 
+RB
+11    8   6    6   4    4    3  3  2  2  1  1 
+     4   3    3   1    1     0  0  0  0  0  0
+EE
+80      9    85.4678  37 
+maxit,npower,amass,   z
+2     0     0    0    0     0    1   1  
+isgo,jpnt,ibrt,ispd,idflt,Ieng,inuc,ichrg
+0       0     0    0   0   0
+istp,ialpvr,ihbd,intg,ivn,ival
+1  1  1  0  0  0  0
+7  5  5  3  3  2  2 

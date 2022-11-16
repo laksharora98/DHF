@@ -1,0 +1,14 @@
+Mg DF SCF Calculation
+MG
+7   35  28   28   25  25   20  20
+3   1    1   0    0   0   0
+UB
+0.00625   2.63
+50      7    24.305  12
+maxit,npower,amass,   z
+2     0     0    0    0     1    0   0
+isgo,jpnt,ibrt,ispd,idflt,Ieng,inuc,ichrg
+0       0     0    1   0   0
+istp,ialpvr,ihbd,intg,ivn,ival
+1  1  1  0  0  0  0
+7  5  5  3  3  2  2
